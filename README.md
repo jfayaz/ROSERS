@@ -21,4 +21,4 @@ ROSERS.exe  InputFileName
  
 
     Reference
-    Jawad Fayaz and Carmine Galasso (in-press). "A Deep Neural Network Framework for Real-Time On-Site Estimation of Acceleration Response Spectra of Seismic Ground Motions". Computer-Aided Civil And Infrastructure Engineering.
+    Jawad Fayaz and Carmine Galasso (2022). "A Deep Neural Network Framework for Real-Time On-Site Estimation of Acceleration Response Spectra of Seismic Ground Motions". Computer-Aided Civil And Infrastructure Engineering, 1-17.
