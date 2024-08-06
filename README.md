@@ -25,5 +25,6 @@ ROSERS.exe  InputFileName
         The outputs consist of three files for each input row: 1) “LatentVariables_i.jpg” file showing the latent variable deduced for the input compared to the latent variables of the utilized database (shown in Figure 6 (see Manual)), 2) “ReconSpectrum_i.jpg” file showing the reconstructed median S_a spectrum (shown in Figure 7 (see Manual)), and 3) “ReconSpectrum_i.out” file containing estimated values of  log⁡(S_a (T)) in units of g corresponding to the 96 periods (shown in Figure 8 (see Manual)). The outputs are developed for ith row provided in the input file. 
  
 
-    Reference
+Reference
+    
     Jawad Fayaz and Carmine Galasso (2023). "A Deep Neural Network Framework for Real-Time On-Site Estimation of Acceleration Response Spectra of Seismic Ground Motions". Computer-Aided Civil And Infrastructure Engineering, 1-17. https://doi.org/10.1111/mice.12830
